@@ -44,23 +44,18 @@ p{
     background-color: #ffb9c5;
  }
 
- .bnt1{
-    font-size: 10px;
-    background-color: #ff9eaf;
-    border-color: #ff9eaf;
-    position: absolute;
+ button{
+   width: 70px;
+   font-size: 30px;
+   height: 50px;
+   position: absolute;
+   background-color: #ff9eaf;
+   display: block;
+   border-color: #ff9eaf ;
+
 
  }
 
-  .bnt2{
-    font-size: 20px;
-    border-width: 40px;
-    position: absolute;
-    background-color: #ff9eaf;
-    border-color: #ff9eaf;
-    display: block;
-    right: 0px;  
- } 
  .title-pag2{
     text-align: center;
     font-size: 40px;
@@ -73,4 +68,16 @@ p{
    font-size: 70px;
    text-align: center;
 
- }
+}
+
+ 
+
+  .bnt2{
+    font-size: 20px;
+    border-width: 40px;
+    position: absolute;
+    background-color: #ff9eaf;
+    border-color: #ff9eaf;
+    display: block;
+    right: 72px;  
+ } 
