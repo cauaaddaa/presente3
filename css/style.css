@@ -81,3 +81,18 @@ p{
     display: block;
     right: 72px;  
  } 
+
+@media screen and (max-width: 600px){
+   .imagem1{
+          
+          right: 140px;
+   }
+
+}
+
+@media screen and (max-width: 600px){
+   .bnt2{
+      font-size: 40px;
+   }
+
+}
