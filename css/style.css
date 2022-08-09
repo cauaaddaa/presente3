@@ -45,14 +45,15 @@ p{
  }
 
  button{
-   width: 70px;
+   width: ;
    font-size: 30px;
-   height: 50px;
+   height: ;
    position: absolute;
    background-color: #ff9eaf;
    display: block;
    border-color: #ff9eaf ;
-
+   border-radius: 90px;
+   border-style: hidden;
 
  }
 
@@ -85,14 +86,13 @@ p{
 @media screen and (max-width: 600px){
    .imagem1{
           
-          right: 140px;
+          right: 70px;
    }
 
 }
 
 @media screen and (max-width: 600px){
-   .bnt2{
-      font-size: 40px;
-   }
+   button{
 
+   }
 }
